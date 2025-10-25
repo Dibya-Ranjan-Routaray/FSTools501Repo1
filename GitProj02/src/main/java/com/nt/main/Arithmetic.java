@@ -7,6 +7,6 @@ public class Arithmetic {
 
 		//operation adding
 
-		return x+y;
+		return x+y;//Substarction
 	}
 }
