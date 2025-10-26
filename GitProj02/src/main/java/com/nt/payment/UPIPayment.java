@@ -9,4 +9,5 @@ public class UPIPayment {
 	public String doPaymenyUsingGPay(long phoneno,double amount) {
 		return amount+" Payment is happening from the phone no ::"+phoneno+" using GPay";
 	}
+
 }
