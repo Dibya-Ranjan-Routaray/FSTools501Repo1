@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02f828e1-532f-4f02-812d-83c7c6cdaedf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/GitProj02/src/main/java/com/nt/CardPayment/CardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/GitProj02/src/main/java/com/nt/CardPayment/CardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitProj02/target/classes/META-INF/maven/com.nt/MavenProj03/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GitProj02/target/classes/META-INF/maven/com.nt/MavenProj03/pom.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Dibya" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +56,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Dibya",
+    "git-widget-placeholder": "Rebasing master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
